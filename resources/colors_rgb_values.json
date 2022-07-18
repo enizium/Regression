@@ -1,0 +1,17 @@
+{
+    "ColorNames": {
+        "White": "rgb(255, 255, 255)",
+        "Gray": "rgb(80, 80, 80)",
+        "LightBlack": "rgb(34, 34, 34)",
+        "Black": "rgba(0, 0, 0, 0)",
+        "LightBlue": "rgb(0, 112, 201)",
+        "LightGray": "rgb(102, 102, 102)",
+        "Blue": "rgb(48, 131, 251)",
+        "LightGrayBlack": "rgb(44, 44, 55)",
+        "DarkBlue": "rgb(48, 131, 251)",
+        "Green": "rgb(50, 170, 0)",
+        "Red": "rgb(237, 28, 36)",
+        "Black1": "rgb(0, 0, 0)",
+        "LightBlue1": "rgb(50, 147, 198)"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "stage3": {
+        "ods_stage3_db": {
+            "hostName": "sc4-trvl-qa-db-mysql01.scqa.rden.us",
+            "port": 3306,
+            "userName": "ods_stage3_app",
+            "passWord": "ods_stage3_app",
+            "dataBase": "ods_stage3_db"
+        }
+    }
+}

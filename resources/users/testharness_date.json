@@ -1,0 +1,49 @@
+{
+    "serverConfiguration": {
+        "issuer": "AutoCvent",
+        "target": "https://gaikocvent.deemstage3.com/rc/cventMeetingSso.do",
+        "SAMLEndpoint": "https://go.rcstage.com/sp/ACS.saml2",
+        "AudienceRestriction": "https://go.rcstage.com",
+        "userName": "autocvent@deem.com",  
+        "emailId": "cventtesting@deem.com"
+     
+    },
+    "ssoConfiguration":{
+        "issuer": "AutoSso",
+        "target": "https://newqaindia.rcqa9.com/rc/sso.do",
+        "SAMLEndpoint": "https://go.rcstage.com/sp/ACS.saml2",
+        "AudienceRestriction": "https://go.rcstage.com",
+        "userName": "vijayakumar123", 
+        "username": "sso1234",
+        "emailId": "ssotesting@deem.com",
+        "externalId" : "ssotesting1234",
+        "fName": "seva",
+        "lName": "development" 
+    },
+    "ssoConfigurationForUserLogin":{
+        "issuer": "AutoSso",
+        "target": "https://gaikoautossoemailtest.deemstage3.com/rc/sso.do",
+        "emailId": "ssotesting@deem.com",
+        "fName": "seva",
+        "lName": "development", 
+        "externalId" : "exterUsermfztl3"
+    },
+    "ssoConfigurationForUsername":{
+        "issuer": "AutoSso",
+        "target": "https://gaikoautosso.deemstage3.com/rc/sso.do",
+        "username": "useridtz5l7n",
+        "fName": "fname2tj2bv",
+        "lName": "lname0xvlr",
+        "externalId" : "exterUsermfztl3"
+ 
+    },      
+    "serverConfigurationForExistingUser": {
+        "issuer": "AutoCvent",
+        "target": "https://gaikocvent.deemstage3.com/rc/cventMeetingSso.do",
+        "SAMLEndpoint": "https://go.rcstage.com/sp/ACS.saml2",
+        "AudienceRestriction": "https://go.rcstage.com",
+        "userName": "autocventexisting@deem.com"
+    }
+    
+    
+}

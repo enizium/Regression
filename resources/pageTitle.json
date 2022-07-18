@@ -1,0 +1,102 @@
+{
+        "en-us": {
+                "SelectDepartureFlight": "Select Departure Flight",
+                "SelectReturnFlight": "Select Return Flight",
+                "SelectCarRental": "Select Car Rental",
+                "TripConfirmation": "Trip Confirmation",
+                "HoldTrip": "Hold Trip",
+                "PurchaseTrip": "Purchase Trip",
+                "TripDetails": "Trip Details",
+                "TripCancellation": "Trip Cancelled",
+                "SelectDepartureTrain": "Select Departure Train",
+                "SelectReturnTrain": "Select Return Train",
+                "SelectPick-upLocation": "Select Pick-up Location"
+        },
+        "sv-se": {
+                "SelectDepartureFlight": "Välj utresa",
+                "SelectReturnFlight": "Välj hemresa",
+                "SelectCarRental": "Välj hyrbil",
+                "TripConfirmation": "Resebekräftelse",
+                "HoldTrip": "Pausa resa",
+                "PurchaseTrip": "Köp resa",
+                "TripCancellation": "Resa avbokad",
+                "SelectDepartureTrain": "Välj tåg för avresa",
+                "SelectReturnTrain": "Välj tåg för returresa",
+                "SelectPick-upLocation": "Välj upphämtningsplats"
+        },
+        "fi-fi": {
+                "SelectDepartureFlight": "Valitse lähtölento",
+                "SelectReturnFlight": "Valitse paluulento",
+                "SelectCarRental": "Valitse autonvuokraaja",
+                "TripConfirmation": "Matkan vahvistus",
+                "HoldTrip": "Pidä matka",
+                "PurchaseTrip": "Osta matka",
+                "TripCancellation": "Matka peruttu",
+                "SelectDepartureTrain": "Valitse lähtö juna",
+                "SelectReturnTrain": "Valitse paluujuna",
+                "SelectPick-upLocation": "Valitse noutopaikka"
+        },
+        "pt-br": {
+                "SelectDepartureFlight": "Selecione seu voo de partida",
+                "SelectReturnFlight": "Selecione voo de retorno",
+                "SelectCarRental": "Selecione aluguel de carro",
+                "TripConfirmation": "confirmação de reserva",
+                "HoldTrip": "Hold Trip",
+                "PurchaseTrip": "Comprar viagem",
+                "TripCancellation": "Viagem cancelada",
+                "SelectDepartureTrain": "Selecione o trem de partida",
+                "SelectReturnTrain": "Selecione o trem de retorno",
+                "SelectPick-upLocation": "Selecionar local de retirada"
+        },
+        "da-dk": {
+                "SelectDepartureFlight": "Vælg flyafgang",
+                "SelectReturnFlight": "Vælg returflyforbindelse",
+                "SelectCarRental": "Vælg billeje",
+                "TripConfirmation": "Rejsebekræftelse",
+                "HoldTrip": "Hold rejse",
+                "PurchaseTrip": "Køb rejse",
+                "TripCancellation": "Turdetaljer",
+                "SelectDepartureTrain": "Vælg afgående tog",
+                "SelectReturnTrain": "Vælg returtog",
+                "SelectPick-upLocation": "Vælg afhentningssted"
+             
+        },
+        "nb-no": {
+                "SelectDepartureFlight": "Velg avreiseflyvning",
+                "SelectReturnFlight": "Velg returreise",
+                "SelectCarRental": "Velg leiebil",
+                "TripConfirmation": "Reisebekreftelse",
+                "HoldTrip": "Diese Reise provisorisch reservieren",
+                "PurchaseTrip": "Kjøp reise",
+                "TripCancellation": "Reise avbestilt",
+                "SelectDepartureTrain": "",
+                "SelectReturnTrain": "",
+                "SelectPick-upLocation": "Velg hentested"
+                
+        },
+        "nl-nl": {
+                "SelectDepartureFlight": "Kies vertrekvlucht",
+                "SelectReturnFlight": "Retourvlucht selecteren",
+                "SelectCarRental": "Fahrzeug auswählen",
+                "TripConfirmation": "Reisbevestiging",
+                "HoldTrip": "Deze reis in de wachtstand plaatsen",
+                "PurchaseTrip": "Reis boeken",
+                "TripCancellation": "Reis geannuleerd",
+                "SelectDepartureTrain": "Selecteer Vertrektrein",
+                "SelectReturnTrain": "Selecteer terug trein",
+                "SelectPick-upLocation": "Selecteer ophaallocatie"
+        },
+        "de-de": {
+                "SelectDepartureFlight": "Hinflug auswählen",
+                "SelectReturnFlight": "Rückflug auswählen",
+                "SelectCarRental": "Fahrzeug auswählen",
+                "TripConfirmation": "Reisebestätigung",
+                "HoldTrip": "Diese Reise provisorisch reservieren",
+                "PurchaseTrip": "Bestätigen Sie Ihre Reisedetails",
+                "TripCancellation": "Reise storniert",
+                "SelectDepartureTrain": "Wählen Sie den Abfahrtszug",
+                "SelectReturnTrain": "WählenRückkehrZug",
+                "SelectPick-upLocation": "Abholort auswählen"
+        }
+
+}

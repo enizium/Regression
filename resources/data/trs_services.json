@@ -1,0 +1,20 @@
+{
+    "trsPost":
+    {
+        "URL": "http://scqaltrs03.scqa.rden.us:8080/rest/clipboardsvc/txgroup"
+    },
+    "trsUpdate":
+    {
+        "URL": "http://scqaltrs03.scqa.rden.us:8080/rest/clipboardsvc/txgroup/173497"
+    },
+    "trsGetByUser":
+    {
+        "URL": "http://scqaltrs03.scqa.rden.us:8080/rest/clipboardsvc/txgroup"
+    },
+    "customerId": "9557941",
+    "deleteTx":
+    {
+        "URL": "http://scqaltrs03.scqa.rden.us:8080/rest/clipboardsvc/txgroup/"
+    }
+   
+}

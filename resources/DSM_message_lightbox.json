@@ -1,0 +1,42 @@
+ {
+     "PartnerLevelDomesticTrips": {
+         "DSMLightboxMessage1foralltrips": "DSM Lightbox Message1 for all trips",
+         "DSMLightboxMessage2foralltrips": "DSM Lightbox Message2 for all trips",
+         "DSMLightBoxMessage1fortrips": "DSM Lightbox Message1 for Domestic trips",
+         "DSMLightBoxMessage2fortrips": "DSM Lightbox Message2 for Domestic trips"
+
+     },
+     "PartnerLevelInternationalTrips": {
+        "DSMLightboxMessage1foralltrips": "DSM Lightbox Message1 for all trips",
+        "DSMLightboxMessage2foralltrips": "DSM Lightbox Message2 for all trips",
+        "DSMLightBoxMessage1fortrips": "DSM Lightbox Message1 for International trips",
+        "DSMLightBoxMessage2fortrips": "DSM Lightbox Message2 for International trips"
+    },
+    
+     "SiteLevelDomesticTrips": {
+         "DSMLightboxMessage1foralltrips": "DSM Inline Message1 for all trips",
+         "DSMLightboxMessage2foralltrips": "DSM Inline Message2 for all trips",
+         "DSMLightBoxMessage1fortrips": "DSM Inline Message1 for Domestic trips",
+         "DSMLightBoxMessage2fortrips": "DSM Inline Message2 for Domestic trips"
+     },
+     "SiteLevelInternationalTrips": {
+        "DSMLightboxMessage1foralltrips": "DSM Inline Message1 for all trips",
+        "DSMLightboxMessage2foralltrips": "DSM Inline Message2 for all trips",
+        "DSMInlineMessage1fortrips": "DSM Inline Message1 for International trips",
+        "DSMLightBoxMessage2fortrips": "DSM Inline Message2 for International trips"
+    },
+    "PartnerandSiteLevelDomesticTrips": {
+        "DSMLightboxMessage1foralltrips": "DSM Lightbox Message1 for all trips",
+        "DSMLightboxMessage2foralltrips": "DSM Lightbox Message2 for all trips",
+        "DSMLightBoxMessage1fortrips": "DSM Lightbox Message1 for Domestic trips",
+        "DSMLightBoxMessage2fortrips": "DSM Lightbox Message2 for Domestic trips"
+
+    },
+    "PartnerandSiteLevelInternationalTrips": {
+       "DSMLightboxMessage1foralltrips": "DSM Lightbox Message1 for all trips",
+       "DSMLightboxMessage2foralltrips": "DSM Lightbox Message2 for all trips",
+       "DSMLightBoxMessage1fortrips": "DSM Lightbox Message1 for International trips",
+       "DSMLightBoxMessage2fortrips": "DSM Lightbox Message2 for International trips"
+
+   }
+ }

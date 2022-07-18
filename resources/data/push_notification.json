@@ -1,0 +1,15 @@
+{
+    "push":{
+        "URL":"http://scqalnot01.scqa.rden.us:8080/rest/event/messages/",
+        "title1": "Alert Test!",
+        "text1": "CoronaVirus Testing"
+    },
+    "mobileUser": {
+        "URL":"http://scqalnot01.scqa.rden.us:8080/rest/event/register",
+        "deviceType": "HYBRID_ANDROID",
+        "locale": "en_IN",
+        "messageVersion": 2,
+        "deviceId": 448,
+        "recipientId": "21e55157aa0a93d769f71a7c89a21192806d780d7e554f7c2249ba58421bbeaa"
+    }
+}

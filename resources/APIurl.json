@@ -1,0 +1,9 @@
+{
+    "mobileLoginSingleSiteMatchTest": "http://scqalgps04.scqa.rden.us:7333/login/rest/identity/authentication/up",
+    "newDecryptEndpointSingleSiteMatchTest": "http://scqalgps04.scqa.rden.us:7333/login/rest/identity/decryption/sessiontoken",
+    "LoginSingleSite": "http://scqalgps04.scqa.rden.us:7333/login/rest/identity/authentication/up",
+    "Lookup":"http://scqalgps04.scqa.rden.us:7333/login/rest/identity/lookup/site",
+    "activationCodeEncryption":"http://scqalgps04.scqa.rden.us:7333/login/rest/identity/encryption/activationcode",
+    "activationCodeDecryption":"http://scqalgps04.scqa.rden.us:7333/login/rest/identity/decryption/activationcode",
+    "resetPassword" :"http://scqalgps04.scqa.rden.us:7333/login/rest/identity/password/reset"
+}

@@ -1,0 +1,16 @@
+{
+    "reservation":{
+        "noReservation" : "No reservations available",
+        "messageOne":"No Trips avaialable for Cancellation",
+        "messageTwo":"Trip is on hold",
+        "messageThree":"Avaialable Trips for Cancellation is ",
+        "messageFour":"Trip Status is ",
+        "messageFive":"On Request Trip present which cannot be cancelled, Check with concerned team",
+        "statusOne":"On Request",
+        "statusTwo":"Reserved",
+        "statusThree":"Confirmed",
+        "statusFour":"On Hold",
+        "messageSix":"Reserved Trip Does not contain Cancel Link, Check with the concerned team",
+        "messageSeven":"Cancelled the trip " 
+    }
+}

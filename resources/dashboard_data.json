@@ -1,0 +1,153 @@
+{
+     "PartnerData": {
+         "SuperDomain": "SuperDomainAutomation",
+         "FullName": "Full Name Automation",
+         "SmallName": "SmallAutomation",
+         "ApplicationTitleLable": "Applicaiton Title Automation",
+         "WebSiteURL": "https://www.superdomainautomation.com",
+         "TopLevelDomain": "deemstage3.com",
+         "Copyright": "CopyRight Automation",
+         "emailReskinColor": "8d5524",
+         "termsOfUseHTMLPage": "Terms Of Use HTML Automation",
+         "HelpDeskContactName": "HD Contact Name Automation",
+         "HelpDeskContactMethod": "HD Contact Method Automation",
+         "EmailSenderDomain": "trautomation",
+         "EmailSenderName": "EmailAutomation",
+         "FaxSenderName": "FaxAutomation",
+         "TextMessageSenderName": "TextMessageAutomation",
+         "useCustomCSScheckBoxChecked": "checked",
+         "ChromeIdentifier": "Version 3",
+         "CustomCSSDirectory": "",
+         "Address1": "Address 1 Auomtomation",
+         "Address2": "Address 2 Automation",
+         "FullNametoEdit" : "Full Name Automation Edited"
+     },
+
+     "SiteData" : {
+            "SiteID" : "automationtest",
+            "DomainURL" : "testramp",
+            "PhoneNumebr" : "6462385474",
+            "Country" : "United States",
+            "CompanyName" : "TestRamp",
+            "NumberOfEmployee" : "100",
+            "Indrustry" : "Software",
+            "CompanyUsageType" : "Test",
+            "topLevelDomain": "deemstage3.com",
+            "StreetName" : "614 Sutter St",
+            "City" : "San Francisco",
+            "ZipCode" : "94102",
+            "State" :"California ",
+            "PhoneNumber"  :"+6468542155"
+
+     },
+     "Admin": {
+         "UserName" : "AutoUser",
+         "FirstName" : "Test",
+         "LastName" : "Ramp",
+         "Email" : "tr@testramp.com",
+         "Password" : "trpass112233",
+         "ConfirmPassword" : "trpass112233"
+     },
+     "NewUser":{
+         "UserName" : "testRamp",
+         "ExternalID" : "tr123",
+         "Email" :"tr@testramp.com",
+         "FirstName" : "Test",
+         "LastName" : "Ramp"
+     },
+     "ClusterValues":{
+         "valueOne" : "100",
+         "valuetwo" :"0"
+     },
+     "CustomMessage": {
+        "message" : "Your Profile is been Locked, Profile connect Site Scenario Message"
+     },
+      "Job":{
+          "jobdescription": "Automation profile Upload",
+          "jobcompletionemail": "ProfileLoad@deem.com"
+      },
+      "Search": {
+          "username": "automation"
+      },
+      "Minute" : {
+          "minutes": "15"
+      },
+      "Path": {
+          "actualpath" : "resources/schedule_profile_upload/testrampsite_upload.csv"
+      },
+      "Month": {
+          "startMonth": "December"
+      },
+     
+     "AgencySetting":{
+         "settingName": "Agency1",
+         "gds":"Sabre",
+         "TAGroup": "ExternalSabreStage",
+         "pseudoCityCode":"6HUA",
+         "defaultQueue":"169/11",
+         "salesLocation":"SFO",
+         "agencyName":"SabreAgencyName",
+         "arcNumber":"666666666",
+         "iataNumber":"1234",
+         "countryCode":"United States",
+         "streetAddress":"966  Sweetwood Drive",
+         "city":"Denver",
+         "stateCode":"Colorado",
+         "zipCode":"80202",
+         "timeZone":"Acre Time",
+         "contactName":"BAAgency",
+         "contactTitle":"MD",
+         "contactPhoneNumber":"928-533-3440",
+         "contactEmail":"agency@name.com",
+         "domesticCountriesList":"United States",
+         "railChannel" : "REARDEN",
+         "railAgencyIdentifier":"TESTAGENCY",
+         "railCustomerIdentifier":"RCQA",
+         "deleteAgencyName":"EditAgency1"
+     },
+     "PolicyList":{
+         "name": "AutomatTwoNewOne",
+         "editPolicyName" : "Edit",
+         "deletePolicyName" : "EditAutomatTwoNewOne",
+         "flightPoliy": "1000"
+     },
+     "DisplayConfigurationList":{
+         "name": "dispConfigurationName",
+         "editConfigurationName": "dispConfNameEdit"
+     },
+     "ComplianceCodesList":{
+        "name": "CarRental",
+        "editComplianceCodesName": "CarRentalOnly"
+     },
+     "CustomFieldsCollection":{
+        "name": "NewCustomOneaaaa",
+        "editCustomFieldsName": "NewCustomEditOneaaaa",
+        "fieldName": "newFieldaaaa"
+     },
+     "SitePaymentCard":{
+        "name": "AutomatTwoNewOne",
+        "editSitePaymentCard": "PaymentCardEdited",
+        "cardType": "Visa",
+        "cardNumber": "4111111111111111"
+     },
+     "VPay":{
+        "name": "AutomatTwoNewOne",
+        "vendor": "Conferma",
+        "AccountCode": "001",
+        "AgentId": "123",
+        "BookerId": "456",
+        "HotelPaymentInstruction": "Enjoy your vacation",
+        "editVPay": "VPayEdited"
+     },
+     "PrivateRate":{
+        "name": "AutomatTwoNewOne",
+        "editPrivateRate": "PrivateRateEdited",
+        "startMonth": "January",
+        "startDay": "1",
+        "startYear": "2022",
+        "endMonth": "December",
+        "endDay": "31",
+        "endYear": "2025",
+        "airlineName": "United Airlines"
+     }
+}

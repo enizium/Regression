@@ -1,0 +1,75 @@
+{
+    "createUser": {
+        "URL":"http://stage3-gpe.scqa.rden.us:8080/rest/profile/user"
+    },
+    "payload" : {
+        
+            "core":
+                {
+                    "siteId": "32265",
+                    "externalId": "exid1",
+                    "username": "username",
+                    "email": "newspemail43"
+                },
+            "name":
+                {
+                    "given": "Name",
+                    "surname": "Surname",
+                    "title": "MR",
+                    "gender": "M"
+                }
+        
+    },
+        "users":[
+          {
+            "core":{
+              "siteId":32265,
+              "externalId":"hank5a",
+              "email":"hank5a.rearden",
+              "username":"hank5a"
+            },
+            "name":{
+              "given":"Rearden5a",
+              "surname":"Commerce5a"
+            },
+            "employee":{
+             "employeeId":443355
+            }
+            },
+        
+          {
+            "core":{
+              "siteId":32265,
+              "externalId":"hank7a",
+              "email":"hank7a.rearden",
+              "username":"hank7a"
+            },
+            "name":{
+              "given":"Rearden7a",
+              "surname":"Commerce7a"
+            },
+            "employee":{
+              "employeeId":742
+            }
+        }
+        ],
+
+    "getUserProfile" : 
+    {
+        "URL":"http://stage3-gpe.scqa.rden.us:8080/rest/profile/user/"
+    },
+
+    "updateUser" : 
+    {
+        "URL" : "http://stage3-gpe.scqa.rden.us:8080/rest/profile/user/"
+        
+    },
+    "getBatchUsers" :
+    {
+        "URL" : "http://stage3-gpe.scqa.rden.us:8080/rest/profile/users?"
+},
+"createBatchUsers" :
+{
+    "URL" : "http://stage3-gpe.scqa.rden.us:8080/rest/profile/users?"
+}
+}

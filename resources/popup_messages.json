@@ -1,0 +1,71 @@
+{
+    "messageContent": {
+        "message": "Your booking is about to be completed and your payment card billed. Select OK or Cancel."
+    },
+
+    "emeraldClubThankYouContent": {
+        "Enterprise": "Thank you for adding your Emerald Club membership number to your Enterprise profile. To add it to your National Car Rental profile, click save.",
+        "National": "Thank you for adding your Emerald Club membership number to your National Car Rental profile. To add it to your Enterprise profile, click save.",
+        "NoCard": "The Emerald Club is designed to make your car rental experience faster and more convenient. Join to enjoy special privileges reserved for members. Already a member? Enter your membership number here:",
+        "deepLink": "https://www.nationalcar.ca/en/deeplink.html?stop=enrollment-link&contractID=XMLRTE&membershipsource=2296&rewardsType=1&mcid="
+    },
+
+    "Searching": {
+        "msg":"Searching for new flights..."
+    },
+
+    "Approve":{
+        "msg":"This trip has been approved."
+    },
+
+    "Decline":{
+        "msg":"This trip has been declined."
+    },
+    
+    "siteBoradingSuccessfulMsg":{
+        "msg":"Thank you for submitting your registration information!"
+    },
+
+    "Settings":{
+        "setting":"Settings"
+    },
+
+    "TripAction":{
+        "Change":"tripDetailsAction=changeTrip",
+        "Cancel":"tripDetailsAction=cancelTrip",
+        "BookAgain": "tripDetailsAction=bookAgain",
+        "Hotel": "action=addNewHotel",
+        "CarRental" : "action=addNewCar",
+        "Air" : "action=addNewFlight"
+    },
+    
+    "validateRefUploadMsg":{
+        "msg":"The file was uploaded with no errors. This set will contain 108 individual reference point(s) that will replace any previous contents of the set."
+    },
+    
+    "hotelFailedMsg":{
+        "msg":"Your hotel is not booked. Please book a new one."
+    },
+    "validateRefFailedMsg":{
+        "msg":"The file you uploaded from location City_Missing_for_All_Records.csv has been rejected. 50% or more of the rows within the file contain errors. See below for specific messages (up to 20 errors will be shown)."
+    },
+    "validateRefFailMsg":{
+        "msg":"The file you uploaded from location Reference Points-BlankCityFew-Total2Rec-Stage2.csv has been rejected. 50% or more of the rows within the file contain errors. See below for specific messages (up to 20 errors will be shown)."
+    },
+    "validateRefrFailMsg":{
+        "msg":"There were some errors with the file you uploaded from location latest file.csv. See below for specific messages (up to 20 errors will be shown)."
+    },
+    "validateRefSucessMsg":{
+        "msg":"The file was uploaded with no errors. This set will contain 4 individual reference point(s) that will replace any previous contents of the set."
+    },
+    "referencePointStatus":{
+        "msg":"Completed With Error"
+    },
+    "refPointStatus":{
+        "msg":"Failed"
+    },
+    "KTNExpirayMessage":{
+        "delegate" : "Redress and Known Traveler number expiring soon for ",
+        "normal" : "Redress and Known Traveler number expiring soon"
+    }
+}

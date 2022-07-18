@@ -1,0 +1,35 @@
+{
+    "User": {
+        "phxTitle": "Mr.",
+        "firstName": "GFirstName",
+        "lastName": "GLastName",
+        "dateOfBirth": "April 20 1988",
+        "gender": "Male",
+        "email": "guestfirstname@deem.com",
+        "businessPhone": "6547800098",
+        "cellPhone": "6547800099",
+        "country" : "United States",
+        "street":"333 Meadowlands Pkwy",
+        "city": "Secaucus",
+        "stateCode": "NJ",
+        "postalCode": "07094",
+        "state": "New Jersey",
+        "password":"Test@123"
+        
+    },
+    "guestUser2": {
+        "phxTitle": "Mr.",
+        "firstName": "GSecondName",
+        "lastName": "GSLastName",
+        "dateOfBirth": "April 14 1990",
+        "gender": "Male",
+        "email": "GSecondName@deem.com"
+    },
+    "additionalInformation" :{
+        "projectCode" : "ADMN0000"
+    },
+    "delegate":{
+        "delegateUser":"worldspan.agency@email.com"
+    }
+}
+

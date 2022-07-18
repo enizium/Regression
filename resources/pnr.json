@@ -1,0 +1,48 @@
+{
+    "AirSpecialRequest": {
+        "airSpeciaRequest1": "BLND",
+        "airSpeciaRequest2": "DEAF"
+    },
+    "HotelSpecialRequest": {
+        "hotelSpeciaRequest1": "no elevator",
+        "hotelSpeciaRequest2": "no ice"
+    },
+    "CarSpecialRequest": {
+        "carSpeciaRequest1": "ADL",
+        "carSpeciaRequest2": "PHN"
+    },
+    "AirlineLoyalty": {
+        "airlineLoyality": "UA",
+        "airlineLoyalityCode": "123456"
+    },
+    "HotelLoyalty": {
+        "hotelLoyality": "HY",
+        "hotelLoyalityCode": "123456"
+    },
+    "CarLoyalty": {
+        "carLoyality": "ZD",
+        "carLoyalityCode": "123456"
+    },
+    "MisField" : {
+    "MisField1": "MIS Field 1",
+    "MisField2": "MIS Field 2",
+    "MisField3": "MIS Field 3",
+    "MisField4": "MIS Field 4",
+    "MisField5": "MIS Field 5",
+    "MisField6": "MIS Field 6",
+    "MisField7": "MIS Field 7"
+    },
+    "CustomFields" : {
+    "TripPurpose": "CORP-CF"
+    },
+    "PreTripApproval":{
+        "TravelApproverId":"tanagomez",
+        "TravelApproverEmail":"smaharjan@deem.com",
+        "travelApproverName": "sabre agency"
+
+    },
+    "UserInfo":{
+        "Title":"Mx.",
+        "Non-binary/Unspecified (X)":"X"
+    }
+}

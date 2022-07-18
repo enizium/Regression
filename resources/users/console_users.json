@@ -1,0 +1,50 @@
+{
+	"sustain": {
+			"techsupport": {
+				"userName": "techsupport",
+				"passWord": "mygazoo"
+			}
+	},
+	"stage2": {
+        "techsupport": {
+            "userName": "techsupport",
+            "passWord": "n0tt0uchd0wn"
+        },
+		"configurator": {
+            "userName": "configurator",
+            "passWord": "n0tmygaz00"
+        }
+	},
+	"stage3": {
+        "techsupport": {
+            "userName": "techsupport",
+            "passWord": "n0tt0uchd0wn"
+		},
+		"configurator": {
+            "userName": "configurator",
+            "passWord": "n0tmygaz00"
+        },
+        "testrampadminuser": {
+            "userName": "testrampadminuser",
+            "passWord": "Deem@1234"
+        }
+	},
+	"qa8": {
+        "techsupport": {
+            "userName": "techsupport",
+            "passWord": "mygazoo"
+		}
+	},
+	"qa9": {
+        "techsupport": {
+            "userName": "techsupport",
+            "passWord": "mygazoo"
+		}
+    },
+    "qa10": {
+        "techsupport": {
+            "userName": "techsupport",
+            "passWord": "mygazoo"
+		}
+	}
+}

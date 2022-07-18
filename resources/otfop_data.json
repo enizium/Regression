@@ -1,0 +1,23 @@
+{
+    "MasterCard": {
+        "carHolderName": "Automation OtfOp",
+        "cardType": "MasterCard",
+        "cardNumber": "5454545454545454",
+        "billingStreetAddress": "333 Meadowlands Pkwy",
+        "billingCity": "Secaucus",
+        "billingState": "NJ",
+        "billingZipCode": "07094",
+        "cvv": "111"
+    },
+    "VisaCard": {
+        "carHolderName": "Automation VISA",
+        "cardType": "Visa",
+        "cardNumber": "4111111111111111",
+        "billingStreetAddress": "333 Meadowlands Pkwy",
+        "billingCity": "Secaucus",
+        "billingState": "NJ",
+        "billingZipCode": "07094",
+        "cvv": "111",
+        "expiry": "2036"
+    }
+}

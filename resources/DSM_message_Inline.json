@@ -1,0 +1,42 @@
+{
+    "PartnerLevelDomesticTrips": {
+        "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+        "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+        "DSMInlineMessage1fortrips": "DSM Inline Message1 for Domestic trips",
+        "DSMInlineMessage2fortrips": "DSM Inline Message2 for Domestic trips"
+
+    },
+    "PartnerLevelInternationalTrips": {
+       "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+       "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+       "DSMInlineMessage1fortrips": "DSM Inline Message1 for International trips",
+       "DSMInlineMessage2fortrips": "DSM Inline Message2 for International trips"
+   },
+   
+    "SiteLevelDomesticTrips": {
+        "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+        "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+        "DSMInlineMessage1fortrips": "DSM Inline Message1 for Domestic trips",
+        "DSMInlineMessage2fortrips": "DSM Inline Message2 for Domestic trips"
+    },
+    "SiteLevelInternationalTrips": {
+       "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+       "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+       "DSMInlineMessage1fortrips": "DSM Inline Message1 for International trips",
+       "DSMInlineMessage2fortrips": "DSM Inline Message2 for International trips"
+   },
+   "PartnerandSiteLevelDomesticTrips": {
+       "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+       "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+       "DSMInlineMessage1fortrips": "DSM Inline Message1 for Domestic trips",
+       "DSMInlineMessage2fortrips": "DSM Inline Message2 for Domestic trips"
+
+   },
+   "PartnerandSiteLevelInternationalTrips": {
+      "DSMInlineMessage1foralltrips": "DSM Inline Message1 for all trips",
+      "DSMInlineMessage2foralltrips": "DSM Inline Message2 for all trips",
+      "DSMInlineMessage1fortrips": "DSM Inline Message1 for International trips",
+      "DSMInlineMessage2fortrips": "DSM Inline Message2 for International trips"
+
+  }
+}

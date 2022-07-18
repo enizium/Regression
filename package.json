@@ -1,0 +1,19 @@
+{
+  "name": "gauge-taiko-template",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "taiko": "latest",
+    "xml2js": "^0.4.23",
+    "lodash": "^4.17.21",
+    "crypto-js": "^4.1.1",
+    "memory-cache": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}

@@ -1,0 +1,95 @@
+{
+    "Authenticate":
+    {
+        "status":"200",
+        "success":true,
+        "authenticationSource":"INTERNAL",
+        "tld": "deemstage3.com",
+        "cluster": "clustera",
+        "username": "platformdeem@gmail.com",
+        "customerId": "2609266",
+		"companyId": "692025",
+		"partnerId": "24045",
+        "ref": "auth",
+        "id": "2609266",
+        "siteName": "LP Deem Yaris",
+        "siteUrlName": "reardensmbch-vp9"
+    },
+    "MobileLoginMultiSiteMatchRestrictedTld":
+    {
+        "status":"200",
+        "success":true,
+        "authenticationSource":"INTERNAL",
+        "tld": "deemstage3.com",
+        "cluster": "clustera",
+        "username": "tldauthuser3@gmail.com",
+        "customerId": "2660401",
+		"companyId": "6",
+		"partnerId": "1",
+        "ref": "auth",
+        "id": "2660401",
+        "siteName": "acme",
+        "siteUrlName": "acme"
+    },
+    
+    "DesktopLoginMultiSiteMatchRestrictedTld":
+    {
+        "status":"200",
+        "success":true,
+        "authenticationSource":"INTERNAL",
+        "tld": "deemstage3.com",
+        "cluster": "clustera",
+        "username": "tldauthuser6@gmail.com",
+        "customerId": "2663806",
+		"companyId": "476010",
+		"partnerId": "24045",
+        "ref": "auth",
+        "id": "2663806",
+        "siteName": "LP Deem 0415",
+        "siteUrlName": "deematwork-khi"
+    },
+
+    "sessionToken":"8982-667EFBB6F9DFE294AEE50927DB12E749-1FDA54796A799633A6899FFC15826691D3150A08B2E70D6B5F95032BE312D91EF3ECF5EAB92759AF1D085C0E24A1E96FA78ADDCA4E058FC171D8638FEA014E2F9B9D4C939A59B79B63ED3652FC5B6F0434F126957DB86D27E6AC0EE525DD4406125AA8B9EA9FDCC7F857982DFA7B11960083504E2E6700F7E956EBDCB6D78C5FC1A4A927824FADF35EB0241F490CCE5A0A8380DD2C8661BD4ACCF773640A57C1FD7E3F687A2A895F22E5A9B79AA86110",
+    "MatchWrongRestrictedTld":{
+        "status": 400, 
+        "code":"BAD_CREDENTIALS",
+	    "message": "Could not process the credentials provided."
+    },
+    "SSOCreation":{
+        "identifier":"reach2viji@gmail.com",
+        "siteId": 1431510,
+        "siteName": "platformqa",
+        "siteUrlName": "platformqa",
+        "siteType": 1,
+        "cluster": "clustera",
+        "partnerId": 1,
+        "state": "ACTIVE",
+        "url": "platformqa.deemstage3.com",
+        "ssoType": "BOTH",
+        "mobileSsoEnabled": "false"
+    },
+    "SSOEnableSite":{
+        "siteId": 32265,
+        "siteName": "newqa",
+        "siteUrlName": "newqa",
+        "siteType": 1,
+        "cluster": "clustera",
+        "partnerId": 1,
+        "state": "ACTIVE",
+        "url": "newqa.deemstage3.com",
+        "ssoType": "SSO"
+    },
+    "ActivationCodeEncryption":{
+        "username": "james1",
+		"password": "1231$mygazoo",
+		"companyId": 2,
+		"partnerId": 1,
+		"expirationTime": 1415293880619,
+		"expired": true
+    },
+    "changePassword":{
+        "identifier": "james.brown@deem.com",
+        "identifierType": "EMAIL",
+        "status": "SUCCESS"
+    }    
+}

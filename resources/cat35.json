@@ -1,0 +1,10 @@
+{
+    "cat35": {
+        "SelectDepartureFlight": "Prefered Extra Rates",
+        "SelectReturnFlight": "Prefered Extra Rates",
+        "Review": "Prefered Extra Rates",
+        "TripConfirmation": "Prefered Extra Rates",
+        "TripCancellation": "Prefered Extra Rates",
+        "TripDetails": "Prefered Extra Rates"
+    }
+}

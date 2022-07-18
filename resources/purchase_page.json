@@ -1,0 +1,16 @@
+
+{
+    "purchaseData":{
+        "costallocationfields" : "Company Reporting (Cost Allocation)", 
+        "costAllocationValue" : "TEXAS",
+        "actualCostAllocation" : "NASCAR : PROD-NASCAR : 03/31/19 - "
+    },
+    "CostAllocation" :{
+        "splitPrimary":"OH_20014_ARC-Omaha NE : OH_20014_ARC-Omaha NE_10012166-001",
+        "splitPrimaryChild":"OH_20014_ARC-Omaha NE_10012166-001",
+        "splitSecondary":"MKTG Transit Market Sector : MKTG Transit Market Sector_10012762-001",
+        "splitSecondaryChild":"MKTG Transit Market Sector_10012762-001",
+        "singleCostAllocation":"NDOTs/Regional & Local Agenc-IL : DOTs/Regional & Local Agenc-IL_10012975-001",
+        "singleCostAllocationChild":"DOTs/Regional & Local Agenc-IL_10012975-001"
+    }
+}
